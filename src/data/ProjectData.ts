@@ -2,7 +2,7 @@ import project_img_1 from "@/assets/images/project/project1.jpg";
 import project_img_2 from "@/assets/images/project/project2.jpg";
 import project_img_3 from "@/assets/images/project/project3.jpg";
 import project_img_4 from "@/assets/images/project/project4.jpg";
-import project_img_5 from "@/assets/images/project/project5.jpg";
+import project_img_5 from "src/assets/images/project/project5.jpg";
 import project_img_6 from "@/assets/images/project/project6.jpg";
 import project_img_7 from "@/assets/images/project/project7.jpg";
 import project_img_8 from "@/assets/images/project/project8.jpg";
